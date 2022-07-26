@@ -1,1 +1,0 @@
-# simple-QR-code-component
